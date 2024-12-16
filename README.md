@@ -54,7 +54,7 @@ The MAMUT project brings together academic researchers and industrial partners:
 ### Lab-STICC (Université Bretagne Sud)
 - **Professor Marc Sevaux**: Project coordinator, expert in optimization and graph theory.
 - **Associate Professor Alexandru Olteanu**: Specialist in optimization and multi-criteria decision support.
-- **Doctoral Student**: To be recruited in collaboration with CITI (INSA Lyon).
+- **Adrien Pichon**:  Doctoral student in collaboration with CITI (INSA Lyon).
 
 ### Lab-STICC (IMT Atlantique)
 - **Professor Romain Billot**: Expert in intelligent mobility and data science.
@@ -64,7 +64,7 @@ The MAMUT project brings together academic researchers and industrial partners:
 ### CITI (INSA Lyon)
 - **Professor Christine Solnon**: Specialist in combinatorial optimization and urban logistics.
 - **Professor Olivier Simonin**: Expert in multi-agent systems.
-- **Post-Doctoral Researcher**: To be recruited for 24 months to contribute to the hybrid solver design and implementation.
+- **Romain Fontaine**: Post-doc specialist in combinatorial optimization and urban logistics.
 
 ### MAPO by Woop
 - A French company specializing in software solutions for urban logistics.
