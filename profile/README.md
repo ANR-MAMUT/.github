@@ -2,13 +2,25 @@
 
 ## Project Overview
 
+<div style="text-align:center;">
+  <img src="logo_anr_mamut.png" alt="Project Logo" width="200">
+</div>
+
 Urban mobility, defined as the transport of goods and people, has profoundly transformed our economy and lifestyles. Today, it must also meet sustainability requirements. The **MAMUT** project (Machine learning And Matheuristics algorithms for Urban Transportation) aims to tackle the challenges of urban logistics by leveraging cutting-edge research in **Operations Research (OR)** and **Artificial Intelligence (AI)**. Our goal is to provide innovative solutions for more sustainable and efficient transport of goods in urban environments.
+
+<div style="text-align:center;">
+  <img src="MAMUT.png" alt="Project Overview Illustration" width="600">
+</div>
 
 ### Context
 
 - According to the **Shift Project report (March 2022)**:
   - On average, **27 tons of goods** are transported annually over **200 km per French person**.
   - Urban freight accounts for **9% of greenhouse gas emissions**, with **89% from road transport** and **9% from rail**.
+
+<div style="text-align:center; margin-top:15px;">
+  <img src="Emissions.png" alt="Urban Freight Emissions" width="500">
+</div>
 
 - The **French Economy Transformation Plan (PTEF)** proposes:
   - Organizing **urban pooling centers** to optimize freight loadings.
